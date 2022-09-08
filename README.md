@@ -1,5 +1,5 @@
 # Login-Registration
-Example of a login and registration page
+Example of a login and registration page.
 
 Details about the page:
 - Mobile responsive
