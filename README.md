@@ -13,4 +13,4 @@ Example of a login and registration page.
 
 ## Demo
 
-https://daviparma.github.io/Website-Template/
+https://daviparma.github.io/Login-Registration/
